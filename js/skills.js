@@ -8,10 +8,13 @@ const skills = [
     "Mongodb",
     "Redis",
     "Entity Framework",
-    "Angular",
+    "Blazor",
     "ReactJS",
     "TDD",
-    "Integração Contínua"
+    "Integração Contínua",
+    ".NET",
+    "API REST"
+    
 ]
 
 skills.forEach(function(skill) {
